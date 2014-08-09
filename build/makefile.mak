@@ -142,6 +142,7 @@ SCI_LEX_OBJ = \
     $(SCI_LEX_OBJDIR)\LexPerl.obj \
     $(SCI_LEX_OBJDIR)\LexPowerShell.obj \
     $(SCI_LEX_OBJDIR)\LexPython.obj \
+    $(SCI_LEX_OBJDIR)\LexRegistry.obj \
     $(SCI_LEX_OBJDIR)\LexRuby.obj \
     $(SCI_LEX_OBJDIR)\LexSQL.obj \
     $(SCI_LEX_OBJDIR)\LexTCL.obj \
